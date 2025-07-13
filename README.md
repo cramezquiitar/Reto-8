@@ -286,5 +286,7 @@ print("El número Fibonacci en la posición", numero_usuario, "es", resultado)
 print("Tiempo de ejecución (iterativo):", duracion, "segundos")
 ```
 5. Crear cuenta en [stackoverflow](https://stackoverflow.com/) y adjuntar imagen en el repo
+<img width="1154" height="571" alt="{59F7EE2F-1B02-43E6-AE40-EC78B07C4006}" src="https://github.com/user-attachments/assets/f5c32392-05ef-4139-97fc-5d2b61a12912" />
 
 6. Cosas de adultos....ir a [linkedin](https://www.linkedin.com/) y crear perfil....NO IMPORTA que estén iniciando, si tienen tiempo para redes poco útiles como fb, insta, o tiktok tienen tiempo para crear un perfil mamalón. Dejar enlace en el repo.
+   https://www.linkedin.com/in/cristian-camilo-amezquita-rodriguez-284412374/
