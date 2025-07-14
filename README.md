@@ -2,6 +2,7 @@
 
 
 1. De los retos anteriores selecione 3 funciones y escribalas en forma de lambdas.
+
 Reto 5:Diseñe una función que calcule la cantidad de carne de aves en kilos si se tienen N gallinas, M gallos y K pollitos cada uno pesando 6 kilos, 7 kilos y 1 kilo respectivamente.
 ```python
 def calcular_carne_aves(n_gallinas: int, m_gallos: int, k_pollitos: int) -> int:
